@@ -28,6 +28,28 @@ The project utilizes a folder containing raw CSV files, encompassing transaction
    - Implemented a variety of charts and visuals, including KPI cards, matrix, slicers, clustered column chart, bar chart, line charts, gauge, map, etc.
    - Incorporated features such as bookmarks, drill-through filters, and page-level and report-level filters for enhanced interactivity.
 
+**Dashboard Screenshots:**
+
+-Executive Dashboard:
+
+![Exec dashboard](https://github.com/as16082023/AdventureWorks--Bike-Shop--Dashboard/assets/155312101/a9d14fe1-24a5-4957-8574-f8b3c67f00d4)
+
+-Map Dashboard:
+
+![map](https://github.com/as16082023/AdventureWorks--Bike-Shop--Dashboard/assets/155312101/10cf9f78-75b6-4981-b884-6fb0f78b6719)
+
+-Product Detail:
+
+![Product Detail](https://github.com/as16082023/AdventureWorks--Bike-Shop--Dashboard/assets/155312101/11c1e6b9-4217-4445-8fd3-28e6bedeb25a)
+
+-Customer Detail:
+
+![Customer Detail](https://github.com/as16082023/AdventureWorks--Bike-Shop--Dashboard/assets/155312101/53c06527-30cb-4353-a99c-421efc1c0194)
+
+
+
+
+
 **Insights:**
 - The highest number of orders originate from The United States followed by Australia.
   
